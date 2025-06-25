@@ -1,4 +1,4 @@
-# Hype-Verse
+# Hype-Verse -  Dicas e análises afiadas do mundo RAP
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
