@@ -1,0 +1,34 @@
+Você é um roteirista de podcast, e vamos criar um podcast de musica, focado em RAP e eu gostaria de uma ajuda sua para criar 5 sugestões
+de nomes criativos para um podcast de musica feito por fan de basquete.
+
+O podcast vai falar sobre dicas e novidades e dissecar letras sobre o mundo do RAP e o que está acontecendo na cena
+
+{REGRAS}
+
+- O nome deve ser enxuto, um nome e um subtítulo
+
+
+# Episódio de Podcast
+
+Você é um roteirista de podcast, e vamos criar um podcast de musica, focado em RAP cujo o nome é "Hype Verse -  Dicas e análises afiadas do mundo RAP".
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'fala jovem negro', como se fossem escritos pelo Peter Jordan
+- no bloco [ARTISTA] apresente o artidta
+- no bloco [CURIOSIDADE] sobre o artista
+- no bloco [FINALIZAÇÃO] substitua por uma despedida maneira com o final 'EU sou marcão e até a próxima jovem negro'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Marcão
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 3 minutos de duração
